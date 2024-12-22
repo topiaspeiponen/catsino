@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+$breakpoint-sm: 600px;
+$breakpoint-md: 1000px;
+
+$color-primary: #fca5a5;
+$color-background: #18181b;
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: $color-background;
+}
