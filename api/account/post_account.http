@@ -1,0 +1,6 @@
+POST http://localhost:8080/accounts
+Content-Type: application/json
+
+{
+    "userId": "8f897200-140c-4fa6-8914-372bd9d7b947"
+}
